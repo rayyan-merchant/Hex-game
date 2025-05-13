@@ -6,7 +6,7 @@ This project is a Python implementation of the [Hex board game](https://en.wikip
 
 A demo video showcasing the gameplay, AI performance, and GUI will be uploaded soon. Check back here for the link or embedded video!
 
-*Placeholder: [Insert YouTube/Vimeo link or embed code for demo video once uploaded]*
+*Placeholder: []*
 
 ## Installation
 
@@ -106,4 +106,4 @@ Please ensure code follows PEP 8 style guidelines and includes comments for clar
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the CC0 License. See the [LICENSE](LICENSE) file for details.
