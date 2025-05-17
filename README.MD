@@ -5,6 +5,11 @@ This project is a Python implementation of the [Hex board game](https://en.wikip
 ## Demo Video
 
 **[Click Here](https://drive.google.com/drive/u/0/folders/1osukCqy0JtV_u8_tOhG3eJp8p_KE6TBI)**
+Sure! Here's a short and professional disclaimer you can add to your GitHub README:
+
+**Disclaimer:**
+The demo video slightly exceeds the 2-minute limit due to the multiple game modes implemented in the project. Each mode was showcased to provide a complete overview of the functionality. We hope this is understandable and kindly request that no marks be deducted for this reason.
+
 
 ## Installation
 
