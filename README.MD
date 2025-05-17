@@ -4,9 +4,7 @@ This project is a Python implementation of the [Hex board game](https://en.wikip
 
 ## Demo Video
 
-[Click Here](https://drive.google.com/drive/u/0/folders/1osukCqy0JtV_u8_tOhG3eJp8p_KE6TBI)
-
-*Placeholder: []*
+**[Click Here](https://drive.google.com/drive/u/0/folders/1osukCqy0JtV_u8_tOhG3eJp8p_KE6TBI)**
 
 ## Installation
 
